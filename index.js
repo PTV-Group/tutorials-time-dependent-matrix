@@ -24,7 +24,7 @@ L.control.zoom({
 var vectorStyleUrl = "https://vectormaps-resources.myptv.com/styles/latest/standard.json";
 
 L.maplibreGL({
-  attribution: '&copy; ' + new Date().getFullYear() + ' PTV Group, HERE',
+  attribution: '&copy; ' + new Date().getFullYear() + ' PTV Logistics, HERE',
   interactive: false,
   maxZoom: 18,
   style: vectorStyleUrl,
